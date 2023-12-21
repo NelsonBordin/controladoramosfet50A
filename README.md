@@ -1,9 +1,7 @@
-//===============================================================================================================================================================================//
-//                                                                                                                                                                               //
-//                                            PROJETO PLACA CONTROLADOR DE MOTOR DC ATE 50A COM MONITORAMENTO DE AQUECIMENTO                                                     //
-//                                                                                                                                                                               //
-//===============================================================================================================================================================================//
-
+//========================================================================//
+              PROJETO PLACA CONTROLADOR DE MOTOR DC ATE 50A 
+                    COM MONITORAMENTO DE AQUECIMENTO
+//========================================================================//
   
   AUTOR: NELSON BORDIN JUNIOR
   EMAIL: nelsonbordin@ntronics.com.br / nelsonbordin@hotmail.com
@@ -26,14 +24,10 @@
 
   Utilize o projeto com responsabilidade e caso seja publicado em sites ou redes sociais por gentileza cite a fonte.
   
-
-//=================================================================================================================================================================================//
-//                                                                                                                                                                                 //
-//                                                  PROJECT: DC MOTOR CONTROLLER BOARD UP TO 50A WITH HEATING MONITORING                                                           //
-//                                                                                                                                                                                 //
-//=================================================================================================================================================================================//
-  
-                                      
+//========================================================================//
+              PROJECT: DC MOTOR CONTROLLER BOARD UP TO 50A
+                       WITH HEATING MONITORING    
+//========================================================================//
 
   AUTHOR: NELSON BORDIN JUNIOR
   EMAIL: nelsonbordin@ntronics.com.br / nelsonbordin@hotmail.com
