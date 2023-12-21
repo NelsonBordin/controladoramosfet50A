@@ -1,3 +1,7 @@
+WIki:
+
+https://github.com/NelsonBordin/controladoramosfet50A/wiki/Utilizando-a-Placa-NT500
+
 //========================================================================//
               PROJETO PLACA CONTROLADOR DE MOTOR DC ATE 50A 
                     COM MONITORAMENTO DE AQUECIMENTO
