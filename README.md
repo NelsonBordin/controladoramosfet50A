@@ -3,6 +3,8 @@
 //                                            PROJETO PLACA CONTROLADOR DE MOTOR DC ATE 50A COM MONITORAMENTO DE AQUECIMENTO                                                     //
 //                                                                                                                                                                               //
 //===============================================================================================================================================================================//
+
+  
   AUTOR: NELSON BORDIN JUNIOR
   EMAIL: nelsonbordin@ntronics.com.br / nelsonbordin@hotmail.com
 
